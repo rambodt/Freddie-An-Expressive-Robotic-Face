@@ -32,4 +32,4 @@ This project combines **FreeRTOS**, **ESP-NOW wireless**, and **servo control** 
 ## Credits  
 - Built by Rambod Taherian and Kourosh Ghahramani  
 - Uses [Adafruit PCA9685 Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library) and [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)  
-- The eye mechanism is based on the design by [Ikkalebob](https://www.instructables.com/Simplified-3D-Printed-Animatronic-Dual-Eye-Mechani/)  with small modifications to adapt it for this project.
+- The eye mechanism is based on the design by [Morgan Manly](https://makerworld.com/en/models/1217039-animatronic-eyes-compact-with-arduino#profileId-1233118) with small modifications to adapt it for this project.
